@@ -1,6 +1,23 @@
 {
 	"name": "PL_MiPrimerPipeline",
 	"properties": {
+		"activities": [
+			{
+				"name": "Set variable1",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "Saludo",
+					"value": "Hola DF"
+				}
+			}
+		],
+		"variables": {
+			"Saludo": {
+				"type": "String"
+			}
+		},
 		"folder": {
 			"name": "Clase01"
 		},
