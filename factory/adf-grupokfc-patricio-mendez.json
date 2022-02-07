@@ -1,0 +1,9 @@
+{
+	"name": "adf-grupokfc-patricio-mendez",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb0e0a65-0327-466c-bfc1-843c85e1e863",
+		"tenantId": "879312d9-8eca-4bfd-ba34-3c258c30c645"
+	}
+}
